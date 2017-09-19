@@ -1,0 +1,20 @@
+{
+  "name": "usebikemob",
+  "version": "1.0.0",
+  "description": "Usebike Mobile API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vitroz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "consolidate": "*",
+    "dust": "*",
+    "dustjs-helpers": "*",
+    "dustjs-linkedin": "*",
+    "pg": "*"
+  }
+}
